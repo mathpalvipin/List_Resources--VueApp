@@ -1,7 +1,7 @@
 # List_Resources--VueApp
  # link:-  https://xenodochial-heyrovsky-1d95af.netlify.app/
 
- This site is only for fun propose 
+ 
  
 ### This is an vueApp for Listing resource
  
