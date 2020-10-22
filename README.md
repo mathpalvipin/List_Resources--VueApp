@@ -7,11 +7,11 @@
  
  
  
- 1.vue basics
- 2.component
- 3.<keep-alive>
- 4.emits
- 5.props
- 6.inject - provide 
- 7.custom components
+ 1.vue basics </br>
+ 2.component </br>
+ 3.<keep-alive> </br>
+ 4.emits  </br>
+ 5.props </br>
+ 6.inject - provide  </br>
+ 7.custom components </br>
  
